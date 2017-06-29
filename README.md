@@ -1,27 +1,27 @@
-## Docker for Linux
+## Docker CE for Linux
 
-### Getting Docker for Linux
+### Getting Docker CE for Linux
 
-Docker for Linux is specialized packages for common Linux distributions which are free to [download](https://store.docker.com/search?offering=community&operating_system=linux&platform=server&q=&type=edition).
+"Docker CE for Linux" is specialized packages for common Linux distributions which are free to [download](https://store.docker.com/search?offering=community&operating_system=linux&platform=server&q=&type=edition).
 
 ### Documentation
 
-If you don't understand something about Docker for Linux, the [extensive
+If you don't understand something about Docker CE for Linux, the [extensive
 documentation](https://docs.docker.com/engine/installation/) is a great place
 to look for answers.
 
 ### Support
 
-Users from the Docker community trade tips and tricks and discuss Docker
+Users from the Docker CE community trade tips and tricks and discuss Docker CE
 for Linux in [the user forum](https://forums.docker.com/categories).
 
-Problems with the Docker for Linux deployment can be filed as issues in this
+Problems with the Docker CE for Linux deployment can be filed as issues in this
 ([docker/for-linux](https://github.com/docker/for-linux)) repository.
 
 ### This Repository
 
-This repository contains an issue tracker for Docker for Linux. If you find a problem
-with the software, first [browse the existing
+This repository contains an issue tracker for Docker CE for Linux. If you find
+a problem with the software, first [browse the existing
 issues](https://github.com/docker/for-linux/issues) or search from the bar
 at the top (`s` to focus) and then, if you don't find your issue, [open
 a new issue](https://github.com/docker/for-linux/issues/new).
