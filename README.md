@@ -53,4 +53,5 @@ labels is roughly:
 | [status/1-acknowledged](https://github.com/docker/for-linux/labels/status/1-acknowledged) | The issue has been triaged and is being investigated |
 | [status/2-in-progress](https://github.com/docker/for-linux/labels/status/2-in-progress) | The issue has been assigned to a engineer and is waiting a fix |
 | [status/3-fixed](https://github.com/docker/for-linux/labels/status/3-fixed) | The issue has been fixed in `master` |
-| [status/4-fix-released](https://github.com/docker/for-linux/labels/status/4-fix-released) | The fix has been released! |
+| [status / 4-fix-released] (https://github.com/docker/for-linux/labels/status/4-fix-released) | Perbaikan telah dirilis! |
+`Apakah ini` gitpull`
