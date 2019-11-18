@@ -42,14 +42,14 @@ labels is roughly:
 | [area/startup](https://github.com/docker/for-linux/labels/area/startup)     | related to application installation or initialization |
 | [area/storage](https://github.com/docker/for-linux/labels/area/storage)     | related to image and container storage ([storage drivers](https://docs.docker.com/engine/userguide/storagedriver/imagesandcontainers/)) |
 | [area/volumes](https://github.com/docker/for-linux/labels/area/volumes)     | related to Docker volumes ([volume drivers](https://docs.docker.com/engine/reference/commandline/volume_create/)) |
-| [kind/bug](https://github.com/docker/for-linux/labels/kind/bug)         | this issue describes a defect |
+| [bug](https://github.com/docker/for-linux/labels/bug)         | this issue describes a defect |
 | [kind/docs](https://github.com/docker/for-linux/labels/kind/docs)        | this issue describes a documentation change |
 | [kind/enhancement](https://github.com/docker/for-linux/labels/kind/enhancement) | this issue describes a change to existing functionality |
 | [kind/feature](https://github.com/docker/for-linux/labels/kind/feature)     | this issue describes totally new functionality |
 | [kind/performance](https://github.com/docker/for-linux/labels/kind/performance) | this issue describes a performance problem or measurement |
 | [status/0-triage](https://github.com/docker/for-linux/labels/status/0-triage) | The issue needs triaging |
-| [status/0-wont-fix](https://github.com/docker/for-linux/labels/status/0-wont-fix) | This issue will not be fixed and therefore can be closed |
-| [status/0-more-info-needed](https://github.com/docker/for-linux/labels/status/0-more-info-needed) | The issue needs more information before it can be triaged |
+| [wontfix](https://github.com/docker/for-linux/labels/status/wontfix) | This issue will not be fixed and therefore can be closed |
+| [status/more-info-needed](https://github.com/docker/for-linux/labels/status/more-info-needed) | The issue needs more information before it can be triaged |
 | [status/1-acknowledged](https://github.com/docker/for-linux/labels/status/1-acknowledged) | The issue has been triaged and is being investigated |
 | [status/2-in-progress](https://github.com/docker/for-linux/labels/status/2-in-progress) | The issue has been assigned to a engineer and is waiting a fix |
 | [status/3-fixed](https://github.com/docker/for-linux/labels/status/3-fixed) | The issue has been fixed in `master` |
