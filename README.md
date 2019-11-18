@@ -49,7 +49,7 @@ labels is roughly:
 | [kind/performance](https://github.com/docker/for-linux/labels/kind/performance) | this issue describes a performance problem or measurement |
 | [status/0-triage](https://github.com/docker/for-linux/labels/status/0-triage) | The issue needs triaging |
 | [status/0-wont-fix](https://github.com/docker/for-linux/labels/status/0-wont-fix) | This issue will not be fixed and therefore can be closed |
-| [status/0-more-info-needed](https://github.com/docker/for-linux/labels/status/0-more-info-needed) | The issue needs more information before it can be triaged |
+| [status/more-info-needed](https://github.com/docker/for-linux/labels/status/more-info-needed) | The issue needs more information before it can be triaged |
 | [status/1-acknowledged](https://github.com/docker/for-linux/labels/status/1-acknowledged) | The issue has been triaged and is being investigated |
 | [status/2-in-progress](https://github.com/docker/for-linux/labels/status/2-in-progress) | The issue has been assigned to a engineer and is waiting a fix |
 | [status/3-fixed](https://github.com/docker/for-linux/labels/status/3-fixed) | The issue has been fixed in `master` |
