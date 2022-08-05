@@ -15,6 +15,3 @@ to look for answers.
 
 Users from the Docker Engine community trade tips and tricks and discuss Docker Engine
 for Linux in [the user forum](https://forums.docker.com/categories).
-
-Problems with the Docker Engine for Linux deployment can be filed as issues in this
-([docker/for-linux](https://github.com/docker/for-linux)) repository.
