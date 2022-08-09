@@ -1,8 +1,6 @@
 ## Docker Engine for Linux
 
- This is a legacy repository used to track and manage issues related with Docker Engine for Linux - Formerly known as Docker Community Edition (CE) on Linux. The Docker Engine for Linux is now part of the open source project [Moby](https://mobyproject.org/).
-
-To report an issue or request a new feature please refer to the upstream [Moby Project](https://github.com/moby/moby), or [Docker Deskop for Linux](https://github.com/docker/desktop-linux/issues) in case you are running [Docker Desktop](https://www.docker.com/products/docker-desktop/).
+This is a legacy issue tracker to manage issues related with Docker Engine for Linux. To report an issue or request a new feature please refer to the upstream [Moby Project](https://github.com/moby/moby), or [Docker Deskop for Linux](https://github.com/docker/desktop-linux/issues) in case you are running [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 
 ### Getting Docker Engine for Linux
 
